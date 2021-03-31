@@ -1,4 +1,5 @@
 # discord-bot
+A rudimentary, yet robust music bot for Discord.
 
 ## Dependencies:
 
